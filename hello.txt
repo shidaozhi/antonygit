@@ -1,3 +1,0 @@
-hello world!
-
-https://github.com/shidaozhi/antonygit.git
