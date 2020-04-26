@@ -1,5 +1,5 @@
-# AntonyGit Test
-<<<<<<< Updated upstream
+# AntonyGit
+
 Git的使用：（2天）
 1. 安装git，使用git clone复制项目，配置属性
 2. 学习用git add增加变化到暂存区
