@@ -13,9 +13,3 @@ Git的使用：（2天）
 
 要求：
 1. 掌握git的基本用法
-=======
- 开发者A在README.md文件中进行了如下修改
- 
-Your local changes to the following files would be overwritten by merge:
-
->>>>>>> Stashed changes
