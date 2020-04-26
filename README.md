@@ -1,4 +1,5 @@
-# AntonyGit Test
+# AntonyGit
+
 Git的使用：（2天）
 1. 安装git，使用git clone复制项目，配置属性
 2. 学习用git add增加变化到暂存区
@@ -12,5 +13,8 @@ Git的使用：（2天）
 
 要求：
 1. 掌握git的基本用法
+<<<<<<< HEAD
 
 20200426完成1-4部分
+=======
+>>>>>>> b54da71156ff7bcc1c74a4f140dce12148e2a37a
